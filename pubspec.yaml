@@ -62,6 +62,7 @@ flutter:
     - assets/fonts/
     - assets/icons/
     - assets/images/
+    - assets/images/pages/inspiration/
     - assets/json/
     - assets/svgs/
     # 猫哥flutter快速入门资源
