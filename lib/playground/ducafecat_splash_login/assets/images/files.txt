@@ -1,0 +1,5 @@
+static const logoPng = 'assets/images/logo.png';
+static const welcomePng = 'assets/images/welcome.png';
+static const donePng = 'assets/images/done.png';
+static const passwordPng = 'assets/images/password.png';
+static const userPng = 'assets/images/user.png';
